@@ -18,10 +18,9 @@ Workspace (gowork.space) is a web application that assists those who work best i
 - [ ] Write reviews and upload pictures pertaining to a workspace
 
 ## Design Docs
-* [View Wireframes][view]
+
 * [DB schema][schema]
 
-[view]: ./docs/views.md
 [schema]: ./docs/schema.md
 
 ## Implementation Timeline
